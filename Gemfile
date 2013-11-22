@@ -20,8 +20,8 @@ gem "google_drive", "~> 0.3.6"
 gem 'high_voltage'
 gem 'simple_form'
 gem 'zurb-foundation'
+gem 'rails_layout'
 group :development do
   gem 'better_errors'
   gem 'quiet_assets'
-  gem 'rails_layout'
 end
