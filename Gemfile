@@ -12,11 +12,11 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 
 # learn-rails
-gem 'activerecord-tableless'
-gem 'compass-rails', '~> 2.0.alpha.0'
+gem "activerecord-tableless", "~> 1.3.3"
+gem "compass-rails", "~> 1.0.3"
 gem 'figaro'
 gem 'gibbon'
-gem 'google_drive'
+gem "google_drive", "~> 0.3.6"
 gem 'high_voltage'
 gem 'simple_form'
 gem 'zurb-foundation'
